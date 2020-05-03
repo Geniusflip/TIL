@@ -8,6 +8,11 @@ A collection of resources / articles that don't specifically fall into the TIL f
 [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 
 
+## Building Seniority
+
+[Becoming a Wizard](https://jvns.ca/wizard-zine.pdf)
+
+
 ## Express
 
 [Express Status Monitor](https://github.com/RafalWilinski/express-status-monitor)
@@ -20,6 +25,10 @@ A collection of resources / articles that don't specifically fall into the TIL f
 ## Go
 
 [Building a database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
+
+## Management
+
+[Managers Playbook](https://github.com/ksindi/managers-playbook)
 
 ## Prolog
 
@@ -37,10 +46,11 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [Dan Abramov explains algebraic effects as they relate to React Hooks](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 
+[React useEffect under the hood](https://www.bussieck.com/useeffect-under-the-hood/)
+
 ## System Design
 
 [System design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)
-
 
 
 ## Unix
