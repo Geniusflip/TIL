@@ -48,6 +48,10 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [React useEffect under the hood](https://www.bussieck.com/useeffect-under-the-hood/)
 
+## Regex 
+
+[Regex for Regular folks](https://refrf.shreyasminocha.me/)
+
 ## System Design
 
 [System design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)
