@@ -12,6 +12,9 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [Becoming a Wizard](https://jvns.ca/wizard-zine.pdf)
 
+## Building Brand
+
+[Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building)
 
 ## Express
 
