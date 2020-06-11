@@ -7,10 +7,14 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 
+## Big Query
+
+[Big Query under the hood](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood)
 
 ## Building Seniority
 
 [Becoming a Wizard](https://jvns.ca/wizard-zine.pdf)
+[What I wish I knew before becoming a Software Developer](https://hackernoon.com/14-things-i-wish-i-knew-before-becoming-a-software-engineer-r55o3z9y)
 
 ## Building Brand
 
@@ -23,8 +27,7 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 ## Github
 
-[Github tips and tricks - sorta ok](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-)
+[Github tips and tricks - sorta ok](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 ## Go
 
 [Building a database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -45,11 +48,17 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [Making 3D maps in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
 
+## RabbitMQ
+
+[What is RabbitMQ?](https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html)
+
 ## React
 
 [Dan Abramov explains algebraic effects as they relate to React Hooks](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 
 [React useEffect under the hood](https://www.bussieck.com/useeffect-under-the-hood/)
+
+[Reparenting a component](https://medium.com/swlh/reparenting-with-react-426d12fb6d0d)
 
 ## Regex 
 
