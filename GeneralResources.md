@@ -28,9 +28,15 @@ A collection of resources / articles that don't specifically fall into the TIL f
 ## Github
 
 [Github tips and tricks - sorta ok](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+
 ## Go
 
 [Building a database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
+
+## HTML
+
+[GOV.UK design team changes the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+
 
 ## Management
 
