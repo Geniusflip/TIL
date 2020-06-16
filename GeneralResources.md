@@ -33,9 +33,13 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [Building a database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
 
-## HTML
+## HTML 5
 
 [GOV.UK design team changes the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+
+[HTML: The Inaccesible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+
+[Setting up Webmentions](https://css-tricks.com/jumping-into-webmentions-with-nextjs-or-not/)
 
 
 ## Management
