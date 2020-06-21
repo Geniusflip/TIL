@@ -1,4 +1,4 @@
-# TIL
+# TIL: Today I Learned
 A collection of short TIL's organised by language
 
 Inspired by [this](https://github.com/simonw/til)
