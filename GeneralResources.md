@@ -2,6 +2,13 @@
 
 A collection of resources / articles that don't specifically fall into the TIL format organised my language / framework. 
 
+## Angular 
+
+[How to use attribute directives to avoid repition in angular templates](https://volosoft.com/blog/attribute-directives-to-avoid-repetition-in-angular-templates)
+
+## Azure 
+
+[Architecture Reference](https://docs.microsoft.com/en-gb/azure/architecture/browse/)
 
 ## Bash
 
@@ -19,6 +26,12 @@ A collection of resources / articles that don't specifically fall into the TIL f
 ## Building Brand
 
 [Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building)
+
+[SWYX Marketing yourself](https://www.learninpublic.org/v1-tactics-marketing-yourself.pdf)
+
+## CSS
+
+[Things I wish I'd known](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 
 ## Express
 
@@ -41,10 +54,13 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [Setting up Webmentions](https://css-tricks.com/jumping-into-webmentions-with-nextjs-or-not/)
 
-
 ## Management
 
 [Managers Playbook](https://github.com/ksindi/managers-playbook)
+
+## NPM 
+
+[Worrying about the npm ecosystem](https://sambleckley.com/writing/npm.html)
 
 ## Prolog
 
@@ -74,15 +90,23 @@ A collection of resources / articles that don't specifically fall into the TIL f
 
 [Regex for Regular folks](https://refrf.shreyasminocha.me/)
 
+## SQLite 
+
+[SQLite as an application file format](https://sqlite.org/appfileformat.html)
+
 ## System Design
 
 [System design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)
 
+[System design for advanced beginners](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ## Unix
 
 [How to use Rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps)
 
+## Webpack
+
+[Introduction to Webpack](https://ui.dev/webpack/)
 
 ## Vanilla JS
 
